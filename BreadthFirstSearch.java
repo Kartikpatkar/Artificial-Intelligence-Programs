@@ -1,6 +1,6 @@
 package ai;
 import java.util.*;
-public class BFS {
+public class BreadthFirstSearch {
     public static void main(String args[]){
         //user input
         Scanner s = new Scanner(System.in);
