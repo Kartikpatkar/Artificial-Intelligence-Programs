@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class DFS {
+public class DepthFirstSearch {
     public static void main(String args[]){
         //user input
         Scanner s = new Scanner(System.in);
