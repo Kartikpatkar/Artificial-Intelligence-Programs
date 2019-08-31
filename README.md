@@ -2,7 +2,7 @@
 
 Breadth First Search
 --------------------
-Output:<br>
+**Output**:<br>
 run:<br>
 Enter the number of nodes : 8<br>
 Enter the parent node : A<br>
@@ -46,7 +46,7 @@ BUILD SUCCESSFUL (total time: 1 minute 18 seconds)<br>
 
 Depth First Search
 ------------------
-Output:<br>
+**Output**:<br>
 run:<br>
 Enter the number of nodes : 10<br>
 Enter the parent node : A<br>
